@@ -1,7 +1,7 @@
 === Your Current Location On Map ===
 Contributors: pmbaldha
 Tags: lopcation,map,mapbox,leafletlive,mobile-friendly,current
-Donate link: https://1stphp.wordpress.com
+Donate link: https://github.com/pmbaldha/wp-current-location-on-map/wiki
 Requires at least: 3.0.1
 Tested up to: 4.3.1
 Stable tag: trunk
