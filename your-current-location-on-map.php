@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Your Current Location On Map
-Plugin URI:  https://1stphp.wordpress.com/your-current-location-on-map-wordpress-plugin/
+Plugin URI:  https://github.com/pmbaldha/wp-current-location-on-map/
 Description: Displays your current location in map with accuracy. Your Current Location On Map plugin is very easy to use,mobile friendly,responsive.  
 Version:     1.0
 Author:      Prashant Baldha
-Author URI:  https://1stphp.wordpress.com
+Author URI:  https://github.com/pmbaldha/
 License:     GPL2
 Your Current Location On Map is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
