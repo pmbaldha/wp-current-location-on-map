@@ -41,6 +41,18 @@ I will allocate some hours in weak to extend functionality of Your Current Locat
 1. Powerful map and your location with accuracy
 2. [your-current-location-on-map] shortcode in post or page
 
+== Changelog ==
+
+= 0.1 =
+* Location shown on map
+* Basic functionality of plugin developed and tested
+
+== Upgrade Notice ==
+
+= 0.1 =
+No need to upgrade, you only need to install plugin. This is first version of plugin
+
+
 == Arbitrary section ==
 
 Main Features:
