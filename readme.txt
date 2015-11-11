@@ -1,6 +1,6 @@
 === Your Current Location On Map ===
 Contributors: pmbaldha
-Tags: lopcation,map,mapbox,leafletlive,mobile-friendlycurrent
+Tags: lopcation,map,mapbox,leafletlive,mobile-friendly,current
 Donate link: https://1stphp.wordpress.com
 Requires at least: 3.0.1
 Tested up to: 4.3.1
@@ -45,7 +45,7 @@ I will allocate some hours in weak to extend functionality of Your Current Locat
 
 Main Features:
 
-1.Live location in map with c\accuracy
+1.Live location in map with accuracy
 2.Zoom out map
 3.Zoom In map
 4.Navigate in map
