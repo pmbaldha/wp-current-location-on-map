@@ -3,7 +3,7 @@
 Plugin Name: Your Current Location On Map
 Plugin URI:  https://github.com/pmbaldha/wp-current-location-on-map/
 Description: Displays your current location in map with accuracy. Your Current Location On Map plugin is very easy to use,mobile friendly,responsive.  
-Version:     1.0
+Version:     0.1
 Author:      Prashant Baldha
 Author URI:  https://github.com/pmbaldha/
 License:     GPL2
