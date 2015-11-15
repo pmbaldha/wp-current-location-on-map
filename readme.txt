@@ -29,11 +29,13 @@ Yes
 For support, please contact at pmbaldha@gmail.com
 
 = Where can I report bug? =
-For reposrting related bugs, please contact at pmbaldha@gmail.com. For general bugs, Please raise issue on https://github.com/pmbaldha/wp-current-location-on-map
+For reporting related bugs, please contact at pmbaldha@gmail.com. For general bugs, Please raise issue on https://github.com/pmbaldha/wp-current-location-on-map
 
 = Will you continually enhance feature of this plugin? =
 I will allocate some hours in weak to extend functionality of Your Current Location On Map. I love open source programming and contribution.
 
+= Can I contribute to this plugin? =
+Yes. You can contribute on https://github.com/pmbaldha/wp-current-location-on-map
 
 
 
